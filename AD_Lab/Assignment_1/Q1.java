@@ -15,3 +15,9 @@ class Q1{
         System.out.println("Sum of "+n+" terms: "+sum);
     }
 }
+/*Output: 
+Input n : 4
+Sum of 4 terms: 10
+T(N)=O(N);
+S(N)=O(1);
+*/
