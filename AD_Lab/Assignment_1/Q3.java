@@ -40,3 +40,11 @@ public class Q3 {
         System.out.println(Arrays.toString(rotate(arr, 3)));
     }
 }
+
+/*
+OUTPUT :
+[5, 6, 7, 1, 2, 3, 4]
+
+T(N)=O(n)
+S(N)=O(1)
+*/
