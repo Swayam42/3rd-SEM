@@ -17,3 +17,11 @@ public class Q2 {
         System.out.println("Min num: "+min);
     }
 }
+/*
+Output : 
+Max num: 53
+Min num: 12
+
+T(N)=O(N)
+S(N)=O(1)
+*/
