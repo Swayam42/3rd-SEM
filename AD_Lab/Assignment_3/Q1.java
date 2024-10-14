@@ -23,3 +23,16 @@ public class Q1 {
         System.out.println("Sorted array: " + Arrays.toString(arr));
     }
 }
+
+/*
+Output : 
+Original array: [64, 34, 25, 12, 22, 11, 90]
+Sorted array: [11, 12, 22, 25, 34, 64, 90]
+*/
+
+/*Time Complexity : 
+Worst Case: O(n²)
+Best Case: O(n) (if the array is already sorted)
+Average Case: O(n²)
+
+Spcae Complexity : O(1)*/
