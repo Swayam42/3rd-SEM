@@ -23,3 +23,11 @@ public class Q2 {
         System.out.println("Sorted array: " + Arrays.toString(arr));
     }
 }
+
+/*Time Complexity : 
+Worst Case: O(n²)
+Best Case: O(n) (if the array is already sorted)
+Average Case: O(n²)
+
+Space Complexity : O(1)
+*/
